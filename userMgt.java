@@ -2,6 +2,8 @@ degbe
 obi
 elizabeth
 legah
-simon
+swada
+douglas
 datti
 dominion
+paul
