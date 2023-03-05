@@ -4,4 +4,4 @@ package is updated
  create mode 100644 tested.java
 =======
 ec2-user is launched in aws
-maven
+docker
